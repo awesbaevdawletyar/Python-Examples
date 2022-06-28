@@ -1,0 +1,10 @@
+a=int(input('a='))
+b=int(input('b='))
+kob=a*b
+sum=a+b
+kv1=a*a
+kv2=b*b
+print('kob=',kob)
+print('sum=',sum)
+print('kv1=',kv1)
+print('kv2=',kv2)

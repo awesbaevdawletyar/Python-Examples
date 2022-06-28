@@ -1,0 +1,10 @@
+a=int(input('a='))
+b=int(input('b='))
+sum=a+b
+kob=a*b
+ma=abs(a)
+mb=abs(b)
+print('sum=',sum)
+print('kob=',kob)
+print(ma)
+print(b)
